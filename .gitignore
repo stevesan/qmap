@@ -3,5 +3,6 @@ autosave
 *.bsp
 *.log
 *.prt
+*.lit
 compile.bat
 run.bat
