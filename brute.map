@@ -5,7 +5,17 @@
 "classname" "worldspawn"
 "mapversion" "220"
 "wad" "K:/quakedev/wads/id1.wad"
-"_sunlight" "200"
+"_sunlight" "400"
+"_sun_mangle" "45 -150 0"
+"_sunlight2" "0"
+"_sunlight3" "0"
+"_sunlight2_dirt" "1"
+"_sunlight_color2" "255 180 184"
+"_sunlight_color3" "255 255 255"
+"_sunlight_dirt" "1"
+"_sunlight_color" "255 229 211"
+"_dirt" "0"
+"_bounce" "1"
 // brush 0
 {
 ( -768 640 0 ) ( -768 -640 0 ) ( -768 -640 -32 ) wgrass1_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -381,42 +391,7 @@
 }
 // entity 2
 {
-"classname" "light"
-"origin" "56 -312 104"
-"light" "500"
-"angle" "180"
-}
-// entity 3
-{
-"classname" "light"
-"origin" "152 -160 352"
-"light" "500"
-"angle" "180"
-}
-// entity 4
-{
-"classname" "light"
-"origin" "152 -248 296"
-"light" "500"
-"angle" "180"
-}
-// entity 5
-{
-"classname" "light"
-"origin" "120 200 392"
-"light" "500"
-"angle" "180"
-}
-// entity 6
-{
 "classname" "monster_zombie"
 "origin" "-24 -264 24"
-"angle" "180"
-}
-// entity 7
-{
-"classname" "light"
-"origin" "24 136 200"
-"light" "500"
 "angle" "180"
 }
