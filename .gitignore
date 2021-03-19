@@ -1,0 +1,7 @@
+
+autosave
+*.bsp
+*.log
+*.prt
+compile.bat
+run.bat
