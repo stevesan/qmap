@@ -1942,3 +1942,24 @@
 "origin" "336 0 264"
 "angle" "180"
 }
+// entity 2
+{
+"classname" "light"
+"origin" "-312 152 344"
+"light" "400"
+}
+// entity 3
+{
+"classname" "light"
+"origin" "-280 96 552"
+}
+// entity 4
+{
+"classname" "light"
+"origin" "-280 -136 552"
+}
+// entity 5
+{
+"classname" "light"
+"origin" "-432 -248 344"
+}
