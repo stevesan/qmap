@@ -5,8 +5,8 @@
 "classname" "worldspawn"
 "mapversion" "220"
 "wad" "K:/quakedev/wads/id1.wad"
-"_sunlight" "400"
-"_sun_mangle" "15 -110 0"
+"_sunlight" "600"
+"_sun_mangle" "30 -110 0"
 "_sunlight2" "0"
 "_sunlight3" "0"
 "_sunlight2_dirt" "1"
@@ -16,6 +16,8 @@
 "_sunlight_color" "255 229 211"
 "_dirt" "0"
 "_bounce" "0"
+"_minlight" "300"
+"_minlight_dirt" "1"
 // brush 0
 {
 ( -1280 2048 1280 ) ( -1280 1024 1280 ) ( -1280 1024 0 ) sky1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
