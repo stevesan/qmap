@@ -14,8 +14,8 @@
 "_sunlight_color3" "255 255 255"
 "_sunlight_dirt" "1"
 "_sunlight_color" "255 229 211"
-"_dirt" "1"
-"_bounce" "1"
+"_dirt" "0"
+"_bounce" "0"
 // brush 0
 {
 ( -1280 2048 1280 ) ( -1280 1024 1280 ) ( -1280 1024 0 ) sky1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -2027,7 +2027,7 @@
 // entity 15
 {
 "classname" "light"
-"origin" "-552 -464 256"
+"origin" "-584 -272 176"
 }
 // entity 16
 {
@@ -2038,4 +2038,61 @@
 {
 "classname" "light"
 "origin" "24 -352 232"
+}
+// entity 18
+{
+"classname" "light"
+"origin" "-152 280 312"
+"light" "400"
+}
+// entity 19
+{
+"classname" "light"
+"origin" "-584 328 408"
+"light" "400"
+}
+// entity 20
+{
+"classname" "light"
+"origin" "-520 24 200"
+}
+// entity 21
+{
+"classname" "light"
+"origin" "-664 -232 456"
+}
+// entity 22
+{
+"classname" "light"
+"origin" "-488 -312 504"
+}
+// entity 23
+{
+"classname" "light"
+"origin" "-536 -40 584"
+}
+// entity 24
+{
+"classname" "light"
+"origin" "-184 376 664"
+}
+// entity 25
+{
+"classname" "light"
+"origin" "-488 -24 440"
+}
+// entity 26
+{
+"classname" "light"
+"origin" "-552 232 304"
+}
+// entity 27
+{
+"classname" "light"
+"origin" "-152 -72 328"
+}
+// entity 28
+{
+"classname" "light"
+"origin" "-152 -184 568"
 }
