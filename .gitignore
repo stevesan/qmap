@@ -4,5 +4,6 @@ autosave
 *.log
 *.prt
 *.lit
+*.texinfo
 compile.bat
 run.bat
